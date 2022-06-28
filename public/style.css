@@ -1,5 +1,11 @@
 /* Add your css here */
-
+body{
+  background-color: aquamarine;
+}
+#shrek{
+  width: 500px;
+  height: 500px;
+}
 .avatar {
   width: 300px;
 }
